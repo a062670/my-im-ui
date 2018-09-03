@@ -3,7 +3,12 @@ body{
   filter: invert(100%);
 }
 
-img, .sticker{
+img{
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
+div.sticker.size_5{
   -webkit-filter: invert(100%);
   filter: invert(100%);
 }
