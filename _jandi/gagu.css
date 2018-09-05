@@ -1,3 +1,7 @@
+html {
+  font-size: 22px;
+  font-weight: bold;
+}
 body{
   -webkit-filter: invert(100%);
   filter: invert(100%);
@@ -14,5 +18,14 @@ div.sticker.size_5{
 }
 
 body.win .msg-item .msg-text-box{
-	font-size: 16px;
+  font-size: 24px;
+  
+}
+.lnb-list-item {
+  font-size: 18px;
+  font-weight: bold;
+}
+.comment-input, .content-input, .message-input{
+  font-size: 20px;
+  line-height: 26px;
 }
