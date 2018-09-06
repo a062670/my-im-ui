@@ -2,6 +2,9 @@ html {
   font-size: 22px;
   font-weight: bold;
 }
+html body.win :lang(zh-tw){
+  font-family: "XinGothic CiticPress", Arial,'Microsoft JhengHei',PMingLiU,'Malgun Gothic',sans-serif,fontAwesome;
+}
 body{
   -webkit-filter: invert(100%);
   filter: invert(100%);
