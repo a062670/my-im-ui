@@ -32,3 +32,30 @@ body.win .msg-item .msg-text-box{
   font-size: 20px;
   line-height: 26px;
 }
+
+body.win .comment-item-body, body.win .message.comment .comment-content,
+body.win .tool-todo-top.todo-title .todo-input,
+body.win .tool-todo-top>.todo-input{
+  font-size: 20px;
+  line-height: 26px;
+}
+.link-to-comment .txt-to-comment{
+  font-size: 20px;
+  line-height: 26px;
+}
+.msg-extra .msg-extra-action>*{
+  font-size: 16px;
+  line-height: 20px;
+}
+.attach-card .card-inf-1 .fn-user-name{
+  font-size: 20px;
+  line-height: 26px;
+}
+.attach-card .info-title{
+  font-size: 20px;
+  line-height: 26px;
+}
+.snb-title{
+  font-size: 20px;
+  line-height: 26px;
+}
