@@ -19,6 +19,10 @@ div.sticker.size_5{
   -webkit-filter: invert(100%);
   filter: invert(100%);
 }
+div.sticker.size_1{
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
 
 body.win .msg-item .msg-text-box{
   font-size: 24px;
