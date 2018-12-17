@@ -10,6 +10,7 @@ body{
   filter: invert(100%);
 }
 
+canvas,
 img{
   -webkit-filter: invert(100%);
   filter: invert(100%);
